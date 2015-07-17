@@ -2,8 +2,8 @@
 <addon id="resource.images.moviegenreicons.grey" name="Movie Genre Icons - Grey" version="0.0.1" provider-name="Team Kodi">
 	<extension point="kodi.resource.images" type="moviegenreicons" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">"Movie Genre Icons</summary>
-		<description lang="en">"Movie Genre Icons</description>
+		<summary lang="en">Grey Movie Genre Icons</summary>
+		<description lang="en">Grey Movie Genre Icons</description>
 		<platform>all</platform>
 	</extension>
 </addon>
